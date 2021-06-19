@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="platine-aufnahme-der-flachsteckverbinder.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0795478"
+     inkscape:cx="267.38891"
+     inkscape:cy="479.61735"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       transform="rotate(-90)"
+       id="text980"
+       y="105.55114"
+       x="-209.55482"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="105.55114"
+         x="-209.55482"
+         id="tspan978"
+         sodipodi:role="line">B1-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-209.55482"
+       y="111.73391"
+       id="text984"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan982"
+         x="-209.55482"
+         y="111.73391"
+         style="stroke-width:0.26458332">B2-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-209.55482"
+       y="123.37814"
+       id="text988"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan986"
+         x="-209.55482"
+         y="123.37814"
+         style="stroke-width:0.26458332">B1+</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text992"
+       y="129.56091"
+       x="-209.55482"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="129.56091"
+         x="-209.55482"
+         id="tspan990"
+         sodipodi:role="line">B2+</tspan></text>
+    <g
+       id="g1137"
+       transform="translate(19.130434,27.11231)">
+      <rect
+         y="124.74349"
+         x="81.013763"
+         height="45"
+         width="33"
+         id="rect815"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839588;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle835"
+         cx="91.014084"
+         cy="165.74358"
+         r="1.1102004" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="M 93.171852,165.74357 H 88.856318"
+         id="path837"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path839"
+         d="m 91.014085,163.5858 v 4.31554"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <circle
+         r="1.1102004"
+         cy="165.74358"
+         cx="109.01408"
+         id="circle843"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839588;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path845"
+         d="m 111.17185,165.74357 h -4.31553"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 109.01408,163.5858 v 4.31554"
+         id="path847"
+         inkscape:connector-curvature="0" />
+      <circle
+         r="1.1102004"
+         cy="160.74358"
+         cx="91.014084"
+         id="circle851"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839588;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path853"
+         d="M 93.171852,160.74357 H 88.856318"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 91.014085,158.5858 v 4.31554"
+         id="path855"
+         inkscape:connector-curvature="0" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839588;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle859"
+         cx="109.01408"
+         cy="160.74358"
+         r="1.1102004" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 111.17185,160.74357 h -4.31553"
+         id="path861"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path863"
+         d="m 109.01408,158.5858 v 4.31554"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path867"
+         d="M 97.513761,169.62731 V 124.85966"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <circle
+         r="1.1102004"
+         cy="165.74358"
+         cx="85.013763"
+         id="circle994"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839588;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path996"
+         d="M 87.171534,165.74357 H 82.856"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 85.013767,163.5858 v 4.31554"
+         id="path998"
+         inkscape:connector-curvature="0" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839588;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle1002"
+         cx="85.013763"
+         cy="160.74358"
+         r="1.1102004" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="M 87.171534,160.74357 H 82.856"
+         id="path1004"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1006"
+         d="m 85.013767,158.5858 v 4.31554"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839588;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle1010"
+         cx="103.01376"
+         cy="165.74358"
+         r="1.1102004" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="M 105.17153,165.74357 H 100.856"
+         id="path1012"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1014"
+         d="m 103.01377,163.5858 v 4.31554"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <circle
+         r="1.1102004"
+         cy="160.74358"
+         cx="103.01376"
+         id="circle1018"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839588;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1020"
+         d="M 105.17153,160.74357 H 100.856"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28839585;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 103.01377,158.5858 v 4.31554"
+         id="path1022"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       id="text1028"
+       y="189.4727"
+       x="141.09944"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="189.4727"
+         x="141.09944"
+         id="tspan1026"
+         sodipodi:role="line">Bohrungen</tspan><tspan
+         style="stroke-width:0.26458332"
+         y="194.76437"
+         x="141.09944"
+         sodipodi:role="line"
+         id="tspan1139">8x d1,4</tspan></text>
+    <text
+       id="text1032"
+       y="119.73845"
+       x="80.245438"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332"
+         y="119.73845"
+         x="80.245438"
+         id="tspan1030"
+         sodipodi:role="line">Bohrschablone zum Ausdrucken</tspan></text>
+    <text
+       id="text1036"
+       y="127.0547"
+       x="80.245438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="127.0547"
+         x="80.245438"
+         id="tspan1034"
+         sodipodi:role="line">Einseitig kupferbeschichtete Platine</tspan><tspan
+         id="tspan1038"
+         style="stroke-width:0.26458332"
+         y="132.34637"
+         x="80.245438"
+         sodipodi:role="line">mit Isolationsfräsung in der Mitte</tspan></text>
+    <text
+       id="text1042"
+       y="145.75598"
+       x="101.04645"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="145.75598"
+         x="101.04645"
+         id="tspan1040"
+         sodipodi:role="line">Platine 33x45</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="140.71713"
+       y="157.88649"
+       id="text1147"><tspan
+         sodipodi:role="line"
+         id="tspan1145"
+         x="140.71713"
+         y="157.88649"
+         style="stroke-width:0.26458332">Ansicht auf Kupfer</tspan><tspan
+         sodipodi:role="line"
+         x="140.71713"
+         y="163.17816"
+         style="stroke-width:0.26458332"
+         id="tspan1149">unten unbeschichtet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="142.10844"
+       y="273.43076"
+       id="text1153"><tspan
+         sodipodi:role="line"
+         id="tspan1151"
+         x="142.10844"
+         y="273.43076"
+         style="stroke-width:0.26458332">Lizenz: MIT</tspan><tspan
+         sodipodi:role="line"
+         x="142.10844"
+         y="278.72241"
+         style="stroke-width:0.26458332"
+         id="tspan1155">(c) Karl Zeilhofer, 2021</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.322582"
+       y="183.52463"
+       id="text868"><tspan
+         sodipodi:role="line"
+         id="tspan866"
+         x="21.322582"
+         y="183.52463"
+         style="stroke-width:0.26458332">Flachstecker 6,3mm gerade</tspan><tspan
+         sodipodi:role="line"
+         x="21.322582"
+         y="188.8163"
+         style="stroke-width:0.26458332"
+         id="tspan870">Reichelt &quot;VT FS-P 6,35&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="21.322582"
+         y="194.10796"
+         style="stroke-width:0.26458332"
+         id="tspan872">Hersteller: Vogt - 03866.A68</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.015213"
+       y="216.36632"
+       id="text876"><tspan
+         sodipodi:role="line"
+         id="tspan874"
+         x="99.015213"
+         y="216.36632"
+         style="stroke-width:0.26458332">20V-Konfiguration</tspan></text>
+  </g>
+</svg>
